@@ -23,6 +23,12 @@
       "password": "AKUDEV23",
       "role": "user",
       "created": "2025-11-15"
+    },
+    {
+      "username": "ALDYDEV",
+      "password": "ALDYDEV1",
+      "role": "admin",
+      "created": "2025-11-15"
     }
   ]
 }
