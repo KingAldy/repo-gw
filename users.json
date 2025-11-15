@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "devAldy",
+      "password": "12345",
+      "role": "admin",
+      "created": "2025-01-15"
+    },
+    {
+      "username": "user123",
+      "password": "password123",
+      "role": "user",
+      "created": "2025-01-16"
+    }
+  ]
+}
