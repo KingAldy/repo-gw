@@ -1,34 +1,11 @@
 {
   "users": [
     {
-      "username": "devAldy",
-      "password": "12345",
-      "role": "admin",
-      "created": "2025-01-15"
-    },
-    {
-      "username": "user123",
-      "password": "password123",
-      "role": "user",
-      "created": "2025-01-16"
-    },
-    {
-      "username": "DEVV",
-      "password": "DEVV",
-      "role": "admin",
-      "created": "2025-11-15"
-    },
-    {
-      "username": "AKUDEV",
-      "password": "AKUDEV23",
-      "role": "user",
-      "created": "2025-11-15"
-    },
-    {
-      "username": "ALDYDEV",
-      "password": "ALDYDEV1",
-      "role": "admin",
-      "created": "2025-11-15"
+      "username": "Aldyy",
+      "password": "Aldyaja",
+      "role": "dev",
+      "created": "2025-01-10",
+      "expiresAt": null
     }
   ]
 }
