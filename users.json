@@ -6,13 +6,6 @@
       "role": "dev",
       "createdAt": 1736467200000,
       "expiresAt": null
-    },
-    {
-      "username": "aldyuser",
-      "password": "aldyuser",
-      "role": "user",
-      "created": "2025-11-15",
-      "expiry": 1763277934984
     }
   ]
 }
